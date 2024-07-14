@@ -1,5 +1,3 @@
-# Bias Detection Techniques
-
 ## Automated Bias Auditing Tools
 
 1. [AI Fairness 360 (AIF360)](#ai-fairness-360-aif360)
